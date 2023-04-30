@@ -1,0 +1,13 @@
+.container-border{
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+/* 
+div{
+    background-color: aqua;
+} */
