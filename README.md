@@ -4,8 +4,8 @@ StudyBuddy is a student-focused web application built using React, Express JS, M
 
 # Features
 
-User authentication and registration with login and sign-up features
-Real-time chat rooms for seamless communication between users
+* User authentication and registration with login and sign-up features
+* Real-time chat rooms for seamless communication between users
 User account management and customization options
 Web sockets enable real-time updates for meeting locations and times
 Interactive map powered by the Google Maps API to display nearby users
